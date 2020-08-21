@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![focus](https://img.shields.io/badge/focus-DataScience-red)
+
+My name is Axel, been troubleshooting computers as far I can remember. Found my passion in Data science. Currently working on completing Lambda’s immersive hands-on curriculum, to prepare me for a career in data science.
+
+- 🔭 I’m currently working on ... Human Rights First - Police Incidents project.
 <!--
 **axefx/axefx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
